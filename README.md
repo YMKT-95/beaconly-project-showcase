@@ -7,7 +7,7 @@
 
 ## Overview
 
-**Beaconly** is a full-stack community-safety platform designed to improve communication between
+**Beaconly** is an AI-assisted, full-stack community-safety platform designed to improve communication between
 residents and law-enforcement users. Residents can submit and track safety reports, view public
 alerts, and use a map to explore relevant incidents. Police/staff users can review reports,
 manage cases, publish alerts, and update investigation progress.
@@ -15,6 +15,14 @@ manage cases, publish alerts, and update investigation progress.
 This was a **team project**. The material here focuses on the areas I personally worked on or
 helped shape, especially frontend architecture, authentication/profile flows, dynamic report
 forms, validation design, maintainability, and frontend/backend integration.
+
+### AI-Assisted Features
+
+AI supports both resident reporting and police workflows:
+
+- **Report classification** — helps residents choose an appropriate category for their report.
+- **Auto-fill** — helps residents complete report fields with less manual data entry.
+- **Case summaries** — helps police officers review case information through AI-generated summaries.
 
 ## Product Snapshot
 
